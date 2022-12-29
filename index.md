@@ -11,3 +11,9 @@
 ```
 Este es un ejemplo de código en Markdown.
 ```
+- [X] Esta 
+- [X] es
+- [X] una
+- [X] lista
+- [X] en
+- [ ] Markdown.
